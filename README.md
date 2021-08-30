@@ -6,7 +6,7 @@ A drawing board to create sketches.
 
 ## Functionalities
 > Increase/Decrease the size of the brush.  
-> Pick colour of the brush.  
+> Pick the color of the brush.  
 > Can Erase strokes.  
 > Can save the whole sketch in PNG format.
 
