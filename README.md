@@ -16,4 +16,4 @@ A drawing board to create sketches.
 - CSS  
 - JavaScript  
 
-Link to website: https://nitinshaily.github.io/Movie-App/  
+Link to website: https://nitinshaily.github.io/Sketch_Board/  
