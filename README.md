@@ -16,4 +16,11 @@ A drawing board to create sketches.
 - CSS  
 - JavaScript  
 
+# Front-end  
+  ![alt text](./assets/look.png)
+
+# Sketch Example  
+  
+![alt text](./assets/my-canvas.jpeg)
+
 Link to website: https://nitinshaily.github.io/Sketch_Board/  
